@@ -1,0 +1,27 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+django = "*"
+djangorestframework = "*"
+django-rest-knox = "*"
+coverage = "*"
+mpld3 = "*"
+django-rest-marshmallow = "*"
+lock = "*"
+marshmallow = "*"
+django-cors-headers = "*"
+django-filter = "*"
+markdown = "*"
+pywatchman = "*"
+scrapy = "*"
+
+[requires]
+python_version = "3.7"
+
+[pipenv]
+allow_prereleases = true
