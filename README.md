@@ -1,5 +1,4 @@
-# Lead Manager
-
+#Adult Educators Tools for Self Assessment
 > Full stack Django/React/Redux app that uses token based authentication with Knox.
 
 ## Quick Start
